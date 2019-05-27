@@ -1,0 +1,11 @@
+C:\Users\vaishali.yendhe\Documents\Ford\EncodingUtility\EncodingUtility\bin\Debug\EncodingUtility.exe.config
+C:\Users\vaishali.yendhe\Documents\Ford\EncodingUtility\EncodingUtility\bin\Debug\EncodingUtility.exe
+C:\Users\vaishali.yendhe\Documents\Ford\EncodingUtility\EncodingUtility\bin\Debug\EncodingUtility.pdb
+C:\Users\vaishali.yendhe\Documents\Ford\EncodingUtility\EncodingUtility\obj\Debug\EncodingUtility.csprojResolveAssemblyReference.cache
+C:\Users\vaishali.yendhe\Documents\Ford\EncodingUtility\EncodingUtility\obj\Debug\EncodingUtility.Properties.Resources.resources
+C:\Users\vaishali.yendhe\Documents\Ford\EncodingUtility\EncodingUtility\obj\Debug\EncodingUtility.csproj.GenerateResource.Cache
+C:\Users\vaishali.yendhe\Documents\Ford\EncodingUtility\EncodingUtility\obj\Debug\EncodingUtility.exe
+C:\Users\vaishali.yendhe\Documents\Ford\EncodingUtility\EncodingUtility\obj\Debug\EncodingUtility.pdb
+C:\Users\vaishali.yendhe\Documents\Ford\EncodingUtility\EncodingUtility\obj\Debug\EncodingUtility.Form1.resources
+C:\Users\vaishali.yendhe\Documents\Ford\EncodingUtility\EncodingUtility\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\vaishali.yendhe\Documents\Ford\EncodingUtility\EncodingUtility\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
